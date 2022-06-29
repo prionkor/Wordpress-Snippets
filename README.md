@@ -6,3 +6,4 @@ This is a list of small WP snippets that will make your life easy. You can copy 
 
 1. [Extra COD Fee](https://gist.github.com/prionkor/7e17472c4ccdf8fa2d026a390c765d66)
 2. [Refresh cart if payment method is changed by user](https://gist.github.com/prionkor/546d8d43a4fd90e2fb5f1131c3b36d69)
+3. [Change currency symbol](https://gist.github.com/prionkor/421796870fab64512b925fff5c85b929)
